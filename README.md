@@ -32,6 +32,11 @@ cd <REPO_ORDNER>
 pip install -r requirements.txt
 
 
+
+
 ## Starte die App mit:
 
 streamlit run 0_🏠_home.py
+
+###Zusammenarbeit: 
+Laura Heyer-Verrept, Dina Nimaeva, Jonas Köllermeier und Carolin Ochs
