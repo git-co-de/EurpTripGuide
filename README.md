@@ -38,5 +38,5 @@ pip install -r requirements.txt
 
 streamlit run 0_🏠_home.py
 
-###Zusammenarbeit: 
+### Zusammenarbeit: 
 Laura Heyer-Verrept, Dina Nimaeva, Jonas Köllermeier und Carolin Ochs
